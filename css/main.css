@@ -11,7 +11,7 @@ html body {
         height: 400px; } }
     html body .container main section .price-box .inner-content {
       margin: 2px;
-      background-color: pink;
+      background-color: red;
       height: 100%;
       padding: 20px; }
       html body .container main section .price-box .inner-content .price, html body .container main section .price-box .inner-content .sub-price {
