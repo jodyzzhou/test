@@ -8,11 +8,11 @@
     "start": "npm run build-css && npm run lite & npm run watch-css"
   },
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "bower": "^1.8.0",
     "lite-server": "^2.2.2",
     "node-sass": "^4.5.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "wiredep": "^4.0.0"
   }
 }
